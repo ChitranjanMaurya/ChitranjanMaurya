@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ChitranjanMaurya/ChitranjanMaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Welcome to my Github repo
+![](https://img.shields.io/badge/Projects-0-yellow?logo=arduino)
+![](https://img.shields.io/badge/Repositories-2-yellow)
+## Languages
+![](https://img.shields.io/badge/%20%20%20%20%20-darkgreen?logo=c)
+![](https://img.shields.io/badge/html-darkgreen?logo=html5)
+
+
+
