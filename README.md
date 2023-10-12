@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Projects-0-yellow?logo=arduino)
 ![](https://img.shields.io/badge/Repositories-4-yellow)
 ## Languages
-![](https://img.shields.io/badge/%20%20%20%20%20-darkgreen?logo=c++)
+![](https://img.shields.io/badge/%20%20%20%20%20-darkgreen?logo=cbs)
 ![](https://img.shields.io/badge/html-darkgreen?logo=html5)
 
 
