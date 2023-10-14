@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my Github repo
 ![](https://img.shields.io/badge/Projects-0-yellow?logo=arduino)
-![](https://img.shields.io/badge/Repositories-4-yellow)
+![](https://img.shields.io/badge/Repositories-6-yellow)
 ## Languages
 ![](https://img.shields.io/badge/%20%20%20%20%20-darkgreen?logo=c)
 ![](https://img.shields.io/badge/html-darkgreen?logo=html5)
