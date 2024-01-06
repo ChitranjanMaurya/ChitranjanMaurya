@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Projects-0-yellow?logo=arduino)
 ![](https://img.shields.io/badge/Repositories-7-yellow)
 ## Languages
-<!-- ![](https://img.shields.io/badge/%20%20%20%20%20-darkgreen?logo=c) -->
+<!-- ![](https://img.shields.io/badge/%20%20%20%20%20-darkgreen?logo=c) 
+https://github.com/Ileriayo/markdown-badges-->
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,6 +28,8 @@ Here are some ideas to get you started:
 <!-- ![](https://img.shields.io/badge/html-darkgreen?logo=html5) -->
 ![](https://img.shields.io/badge/CSS3%20-darkgreen?style=for-the-badge&logo=CSS3)
 ![](https://img.shields.io/badge/java%20script-grey?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 
