@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                                    
 <!-- ![](https://img.shields.io/badge/html-darkgreen?logo=html5) -->
-<!-- ![](https://img.shields.io/badge/CSS3%20-darkgreen?style=for-the-badge&logo=CSS3)
-![](https://img.shields.io/badge/java%20script-grey?style=for-the-badge&logo=javascript) -->
+![](https://img.shields.io/badge/CSS3%20-darkgreen?style=for-the-badge&logo=CSS3)
+![](https://img.shields.io/badge/java%20script-grey?style=for-the-badge&logo=javascript)
 
 
 
