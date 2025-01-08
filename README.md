@@ -28,8 +28,8 @@ https://github.com/Ileriayo/markdown-badges-->
 <!-- ![](https://img.shields.io/badge/html-darkgreen?logo=html5) -->
 ![](https://img.shields.io/badge/CSS3%20-darkgreen?style=for-the-badge&logo=CSS3)
 ![](https://img.shields.io/badge/java%20script-grey?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+ -->
 
 
